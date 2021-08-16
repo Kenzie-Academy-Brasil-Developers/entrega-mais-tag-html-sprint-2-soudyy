@@ -1,0 +1,43 @@
+header,
+footer {
+    margin: 0;
+    height: 10vh;
+    background-color: rgb(84, 71, 145);
+}
+
+body {
+    text-align: center;
+    background-color: rgb(26, 25, 25);
+    color: whitesmoke;
+}
+
+h1 {
+    text-align: center;
+}
+
+.meuSer {
+    text-align: center;
+}
+
+.meuSer ol {
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+}
+
+.sites{
+    text-align: center;
+}
+.sites ul {
+    display: inline;
+    margin: 0;
+    padding: 0;
+    
+}
+.sites li{
+    padding: 10px 15px;
+}
+
+a {
+    color: rgb(10, 222, 230);
+}
