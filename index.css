@@ -15,14 +15,15 @@ h1 {
     text-align: center;
 }
 
-.meuSer {
+.sobreMim {
     text-align: center;
 }
 
-.meuSer ol {
+.sobreMim ol {
     display: inline-block;
     margin: 0;
     padding: 0;
+    text-align: left;
 }
 
 .sites{
@@ -36,8 +37,16 @@ h1 {
 }
 .sites li{
     padding: 10px 15px;
+    
 }
 
 a {
     color: rgb(10, 222, 230);
+}
+
+.images{
+    display: inline-block;
+    color: aqua;
+    padding: none;
+    margin: none;
 }
